@@ -1,4 +1,5 @@
 # 🛡️ NawalaChecker - Multi-Layer Domain Filtering Bypasser
+### 🎓 Project By Student Smk Diponegoro 1 - TKJ
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/CveInSpace/Nawala)
 [![Author](https://img.shields.io/badge/author-Kanezama-orange.svg)](https://cve-in.space)

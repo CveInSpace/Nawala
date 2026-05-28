@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-results.txt
-NawalaChecker.exe
-.vscode/
-.idea/
